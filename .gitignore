@@ -1,0 +1,4 @@
+TFT3/dist/
+TFT3/build/
+*.exe
+*.pkg
